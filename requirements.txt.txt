@@ -1,7 +1,0 @@
-streamlit
-PyPDF2
-langchain
-faiss-cpu
-scikit-learn
-matplotlib
-python-dotenv
